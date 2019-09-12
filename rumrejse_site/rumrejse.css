@@ -50,5 +50,6 @@ article{
 /*--------------------------------VELVET SURPRISE---------------------------------------*/
 
 .velvet_billede{
-	
+	float: right;
+	width: 40%;
 }
